@@ -38,13 +38,13 @@ The server will run at http://127.0.0.1:8000/.
 
 ## Usage
 
-Client Interaction: Clients can submit their website URLs through the provided endpoint to initiate the model training process.
-User Interaction: Users can access the bot selection interface and start conversations with their chosen bot.
-Bot Management: Use the provided admin tools to manage and configure bots.
+- **Client Interaction:** Clients can submit their website URLs through the provided endpoint to initiate the model training process.
+- **User Interaction:** Users can access the bot selection interface and start conversations with their chosen bot.
+- **Bot Management:** Use the provided admin tools to manage and configure bots.
 Future Enhancements
-Advanced Bot Features: Implement more sophisticated AI capabilities and enhance bot interactions.
-Analytics Dashboard: Develop a dashboard for clients to view detailed analytics on bot performance and user interactions.
-Mobile Support: Create a mobile-friendly interface for both clients and users.
+- **Advanced Bot Features:** Implement more sophisticated AI capabilities and enhance bot interactions.
+- **Analytics Dashboard:** Develop a dashboard for clients to view detailed analytics on bot performance and user interactions.
+- **Mobile Support:** Create a mobile-friendly interface for both clients and users.
 
 ## Work Flow 
 - At first a Client signs up to our site then logs in 
