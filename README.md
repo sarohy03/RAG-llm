@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6756eb5f-402f-458c-a291-83e31c66ef58)# SaaS Bot System
+# SaaS Bot System
 The SaaS Bot System is a powerful application designed to facilitate interactions between clients and users through advanced AI-driven bots. Built with FastAPI, Python, and Poetry, this system allows clients to train models based on their websites and provides users with multiple bots to interact with.
 
 ## Features
@@ -59,6 +59,5 @@ Future Enhancements
 ## Screen Shots
   ![image](https://github.com/user-attachments/assets/255dd53a-ccbc-4c51-a07f-b1cb0cab55e2)
   ![image](https://github.com/user-attachments/assets/4d3d33e1-3180-45f9-8ed7-a8d3250dd74f)
-
   ![Screenshot from 2024-08-21 12-56-58](https://github.com/user-attachments/assets/cdc6a7b1-3989-441e-88f5-3c3e81a02695)
 
