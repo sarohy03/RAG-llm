@@ -16,7 +16,7 @@ To set up the SaaS Bot System on your local machine, follow these steps:
 
 1.**Clone the Repository:**
 ```bash
-git clone https://github.com/sarohy03/RAG-llm/tree/my-recovery-branch \n
+git clone https://github.com/sarohy03/RAG-llm/tree/my-recovery-branch 
 cd RAG-llm
 ```
 2 **Install Dependencies with Poetry:**
@@ -48,4 +48,11 @@ Mobile Support: Create a mobile-friendly interface for both clients and users.
 Contributing
 We welcome contributions to enhance and expand the SaaS Bot System. Please follow these steps:
 
-## 
+##Work Flow 
+-At first a Client signs up to our site then logs in 
+-After that Cient create the bot 
+-At this step the context from website is retrived and saved in data base 
+-After that user logs in 
+-He selects a bot and uses it 
+-When the user send query the data system perform vector search locally and find the most relevent piece of data 
+-After that the data is processed by LLM and returns the results
