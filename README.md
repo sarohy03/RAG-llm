@@ -17,7 +17,7 @@ To set up the SaaS Bot System on your local machine, follow these steps:
 ### Clone the Repository:
 
 
-git clone https://github.com/yourusername/saas-bot-system.git
+git clone https://github.com/sarohy03/RAG-llm/tree/my-recovery-branch \n
 cd RAG-llm
 
 ### Install Dependencies with Poetry:
