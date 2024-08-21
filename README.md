@@ -47,10 +47,10 @@ Analytics Dashboard: Develop a dashboard for clients to view detailed analytics 
 Mobile Support: Create a mobile-friendly interface for both clients and users.
 
 ## Work Flow 
--At first a Client signs up to our site then logs in 
--After that Cient create the bot 
--At this step the context from website is retrived and saved in data base 
--After that user logs in 
--He selects a bot and uses it 
--When the user send query the data system perform vector search locally and find the most relevent piece of data 
--After that the data is processed by LLM and returns the results
+- At first a Client signs up to our site then logs in 
+- After that Cient create the bot 
+- At this step the context from website is retrived and saved in data base 
+- After that user logs in 
+- He selects a bot and uses it 
+- When the user send query the data system perform vector search locally and find the most relevent piece of data 
+- After that the data is processed by LLM and returns the results
