@@ -14,27 +14,30 @@ Dependency Management: Poetry
 ## Installation
 To set up the SaaS Bot System on your local machine, follow these steps:
 
-### Clone the Repository:
-
-
+1.**Clone the Repository:**
+```bash
 git clone https://github.com/sarohy03/RAG-llm/tree/my-recovery-branch \n
 cd RAG-llm
-
-### Install Dependencies with Poetry:
-
+```
+2 **Install Dependencies with Poetry:**
+```bash 
 poetry install
+```
 This will install all required dependencies listed in the pyproject.toml file.
 
-### Activate the Poetry Environment:
-
+3. **Activate the Poetry Environment:**
+```bash
 poetry shell
+```
+4. **Run the Development Server:**
 
-### Run the Development Server:
-
+```bash
 poetry run uvicorn main:app --reload
+```
 The server will run at http://127.0.0.1:8000/.
 
-Usage
+##Usage
+
 Client Interaction: Clients can submit their website URLs through the provided endpoint to initiate the model training process.
 User Interaction: Users can access the bot selection interface and start conversations with their chosen bot.
 Bot Management: Use the provided admin tools to manage and configure bots.
