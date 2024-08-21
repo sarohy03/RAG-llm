@@ -54,7 +54,7 @@ Future Enhancements
 - He selects a bot and uses it 
 - When the user send query the data system perform vector search locally and find the most relevent piece of data 
 - After that the data is processed by LLM and returns the results
-- 
+
 
 ## Screen Shots
   ![image](https://github.com/user-attachments/assets/255dd53a-ccbc-4c51-a07f-b1cb0cab55e2)
